@@ -1,8 +1,10 @@
 body{
-    background-color: blue;
+    background-color: sienna;
 }
 
 h2{
     text-align: center;
-    color: red
+    color: black;
+    font-family: "Arial";
+    font-weight: bold;
 }
