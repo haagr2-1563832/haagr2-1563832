@@ -8,3 +8,8 @@ h2{
     font-family: "Arial";
     font-weight: bold;
 }
+
+#Paw img{
+    float: right;
+    margin: 0 0 10px 10px;
+}
